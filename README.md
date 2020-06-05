@@ -1,4 +1,4 @@
-[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy)
+[![](https://www.balena.io/deploy.png)](https://localhost:3000/deploy)
 # Code Challenge for Scoutbase
 
 If you’re reading this, then you’ve applied for a position at Scoutbase.
